@@ -1,0 +1,97 @@
+body{
+    width: 900px;
+    margin: auto;
+    font-family: Helvetica;
+}
+
+h1{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+a{
+    color: steelblue;
+}
+
+nav li{
+    display: inline-block;
+    padding: 5px;
+}
+
+header li{
+    font-size: 125%;
+}
+
+nav{
+    background-color: #99ffff;
+    color: steelblue;
+    text-align: center;
+    margin: 0px;
+}
+
+nav ul{
+    margin: 0px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    padding: 10px;
+    display: block;
+    width: 60%;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+}
+
+article{
+    text-align: center;
+}
+
+span{
+    background-color: lightgoldenrodyellow;
+}
+
+form {
+    background-color: lightcyan;
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+    border: solid 1px;
+    text-align: center;
+}
+
+label {
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
+}
+
+input {
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.labelCrearUsuario{
+    width: 160%;
+}
+
+footer{
+    margin: auto;
+    background-color: aliceblue;
+    color: steelblue;
+    padding: 5px;
+    font: Times New Roman italic;
+}
+
+
+
