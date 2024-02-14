@@ -11,8 +11,8 @@
 	<groupId>EA08_Practica2</groupId>
 	<artifactId>Practica2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Practica2_JimenaFloresCarmona</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SC403_Practica2_JimenaFloresCarmona</name>
+	<description>SC403_Diseno Web y Patrones_MN_EA08-Practica2_JimenaFloresCarmona</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
